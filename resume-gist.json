@@ -1,0 +1,177 @@
+{
+  "meta": {
+    "theme": "onepage"
+  },
+  "basics": {
+    "name": "Rahul Chinta",
+    "label": "Software Engineer",
+    "image": "https://en.gravatar.com/userimage/95688745/3eae14f7c9d381287aeb609fd5177be3.png",
+    "website": "https://blog.bitsapien.dev",
+    "email": "bitsapien@gmail.com",
+    "phone": "+447526564041",
+    "location": {
+      "city": "London",
+      "countryCode": "UK"
+    },
+    "profiles": [
+      {
+        "url": "https://github.com/bitsapien",
+        "username": "bitsapien",
+        "network": "github"
+      },
+      {
+        "url": "https://linkedin.com/in/cspacerahul",
+        "username": "Rahul C",
+        "network": "linkedin"
+      },
+      {
+        "username": "bitsapien",
+        "url": "https://stackoverflow.com/users/755421/bitsapien",
+        "network": "stackoverflow"
+      }
+    ]
+  },
+  "education": [
+    {
+      "endDate": "2015-05-01",
+      "startDate": "2011-03-01",
+      "area": "Electrical and Electronics Engineering",
+      "studyType": "Bachelors of Technology",
+      "institution": "Jawaharlal Nehru Technological University, Kakinada"
+    }
+  ],
+  "references": [
+  ],
+  "skills": [
+    {
+      "keywords": [
+        "HTML/CSS",
+        "Javascript",
+        "React",
+        "VueJS",
+        "Apollo",
+        "recompose",
+        "react-testing-library"
+      ],
+      "level": "",
+      "name": "Frontend Technologies"
+    },
+    {
+      "keywords": ["NodeJS", "Ruby", "Python", "Hack", "RDBMS", "NoSQL DBs", "REST APIs", "GraphQL", "Serverless"],
+      "level": "",
+      "name": "Backend Technologies"
+    },
+    {
+      "keywords": ["Kubernetes", "Docker", "Kong", "AWS", "Terraform"],
+      "level": "",
+      "name": "Devops Technologies"
+    },
+    {
+      "keywords": ["Continuous Delivery", "Focus on E2E testing", "Pair Programming", "Clean Code", "Fast Feedback", "Agile Principles"],
+      "level": "",
+      "name": "Software Delivery Practices"
+    }
+  ],
+  "awards": [
+  ],
+  "work": [
+    {
+      "summary": "Business Engineer on Meta FinTech, formerly called Novi.",
+      "website": "https://meta.com",
+      "company": "Meta",
+      "location": "London",
+      "position": "Business Engineer",
+      "startDate": "2021-11-08",
+      "highlights": [
+        "Implemented direct integrations with payment providers, safeguarding over $300M in annual revenue. Successfully migrated from subpar authorization rate integrations for local payment methods across Ads payment systems in 18+ countries.",
+        "Achieved a 66% boost in the payment support engineering team's efficiency. This team handles the ingestion of reports from our banks and payment providers, which amounts to over $80 billion annually.",
+        "Made the highest number of contributions among Meta FinTech Business Engineers globally. This achievement positioned me within the top 20 out of over 200 engineers who participated.",
+        "Integrated payments into FB Marketplaces and Shops for the UK market to tap into an $80 billion market globally.",
+        "Conducted multiple training sessions to enhance teams' comprehension of our systems, enabling them to deliver faster.",
+        "Aided individuals in their career advancement by conducting internal interviews with leaders such as Patrick Bozeman (Head of Engineering - Meta FinTech)",
+        "Played a crucial role in averting costly lawsuits by assisting in review and audit of our APIs"
+      ]
+    },
+    {
+      "summary": "ThoughtWorks is an organisation dedicating to enabling clients to deliver software with greater speed and efficiency.",
+      "website": "https://thoughtworks.com/",
+      "company": "ThoughtWorks",
+      "location": "Hyderabad",
+      "position": "Application Developer / Senior Consultant",
+      "startDate": "2018-06-15",
+      "endDate": "2021-10-18",
+      "highlights": [
+        "Spearheaded the transformation of a Ruby on Rails monolithic architecture into a microservices architecture for one of the Babylon Health - UK's foremost health startups. This significantly increased their software delivery speed, enabling them to transition from monthly to daily releases.",
+        "Led frontend team in enhancing user experience of Babylon Health's web-based application (built on React, Recompose and GraphQL) for booking on-call appointments. Result: 3x increase in patients attended per hour by staff.",
+        "Facilitated significant improvements in software delivery for OTTO Gmbh - the 2nd largest e-commerce company in Germany. This enabled them to effectively scale their rapidly expanding seller network, which is growing by 1000s each month.",
+        "Designed and implemented an inventive solution utilizing cutting-edge technologies (micro-frontends, API gateways, serverless services in Python and Javascript, web components, Terraform, and OAuth2.0). The result: 20x faster software delivery, deployment, and integration for teams.",
+        "Expertly architected and delivered a sophisticated authorization system for a critical business domain within an e-commerce infrastructure.",
+        "Developed a Python mailing service that uses queues and messages, enabling 18+ teams to send emails without template or formatting concerns.",
+        "Designed and implemented a remarkably high-performance and fault-tolerant microfrontend page, capable of handling loads of nearly 1000 concurrent users.",
+        "Conducting workshops every six months to train over 50 ThoughtWorkers on Kubernetes, enabling them to develop advanced proficiency in this technology.",
+        "Created an impactful platform, similar to \"Tech Talks,\" for ThoughtWorkers to share their expertise through conference-style presentations. The initiative effectively identifies top tech experts among thousands of engineers.",
+        "Established a vibrant Elixir community in Hyderabad, India, resulting in increased engagement between ThoughtWorks and the wider developer community, leading to improved recruitment conversion ratios.",
+        "Spoke at internal and external conferences on a range of topics that encompass software delivery, testing, and frontend development. These presentations directly impacted four projects within ThoughtWorks, advancing their goals and objectives."
+
+      ]
+    },
+    {
+      "summary": "eLitmus is an assessments and recruiting firm. At eLitmus, played a key role in envisioning, designing, and building products from the ground up.",
+      "website": "https://elitmus.com",
+      "company": "eLitmus Evaluations",
+      "location": "Bengaluru",
+      "position": "Senior Full Stack Developer",
+      "startDate": "2018-06-13",
+      "endDate": "2015-08-04",
+      "highlights": [
+        "As developer and product owner of elitmus.com, implemented optimizations that improved the efficiency of recruitment and operations teams. Managed technical debt and testing, accelerating product development cycle to achieve 10x faster report generation and 200% faster CI pipelines. These improvements significantly impacted the product's performance and success.",
+        "Overhauled the design for the website from https://web.archive.org/web/20150322020903/https://www.elitmus.com/jobs to https://web.archive.org/web/20201127110125/https://www.elitmus.com/jobs",
+        "Created the Themis app from scratch, to track attendance of invigilators across multiple test centers setup for the Government of India. The technology stack included Ruby on Rails and an Android app",
+        "Anuvaad - This application can translate a custom DSL to output code in 12 different programming languages. The intent was to speeden writing skeleton code for competetive coding problems.",
+        "Developed and implemented a Deduplication Engine algorithm that effectively identifies duplicate profiles in eLitmus.com's 1 million+ database, improving data accuracy and avoiding fraudulent candidates.",
+        "Developed \"Faces\" - an application for digitizing test takers' admit cards and attaching them to profiles. Migrated the system from on-premises to AWS cloud, resulting in cost savings. Implemented a storage driver for seamless use of local, S3, and Azure storage."
+      ]
+    }
+
+  ],
+  "volunteer": [
+  {
+      "summary": "FreedomBox is a privacy focussed technology to enable self-hosting simple services like chat, file sharing.",
+      "website": "https://freedombox.org/",
+      "organization": "FreedomBox",
+      "position": "Open Source Contributor",
+      "startDate": "2020-05-16",
+      "endDate": "2020-06-16",
+      "highlights": [
+        "Transmuted the matrix-synapse server included in FreedomBox to support video calling. This became a real need in the 2020 COVID times. ",
+        "Learnt Web RTC and how STUN/TURN servers work in the journey to do this."
+      ]
+    },
+    {
+      "organization": "Periferry",
+      "position": "Project Designer / Volunteer",
+      "website": "https://www.periferry.com/socialchange#comp-kchfuinq",
+      "startDate": "2020-06-01",
+      "endDate": "2020-07-01",
+      "summary": "Designed the 'Prajna' program along with a pair, which set the tone for the mentorship program that empowered 25+ transgender people to be financially independent and chalk out their own career paths.",
+      "highlights": [
+      ]
+    }],
+  "interests": [
+    {
+      "name": "Vim"
+    },
+    {
+      "name": "Functional Programming"
+    },
+    {
+      "name": "Building simple systems"
+    },
+    {
+      "name": "Developer Experience"
+    },
+    {
+      "name": "LISP like languages"
+    }
+  ]
+}
