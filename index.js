@@ -1,6 +1,13 @@
 var fs = require("fs");
 var path = require('path');
 var Handlebars = require("handlebars");
+const moment = require('moment');
+
+Handlebars.registerHelper('formatDate', function(format, dateString) {
+    return new Handlebars.SafeString(
+	moment(dateString).format(format)
+    );
+});
 
 function render(resume) {
 	var css = fs.readFileSync(__dirname + "/style.css", "utf-8");

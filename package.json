@@ -1,14 +1,15 @@
 {
-  "name": "jsonresume-theme-boilerplate",
-  "version": "0.1.2",
-  "description": "Boilerplate theme for JSON Resume",
-  "author": "Mattias Erming",
+  "name": "jsonresume-theme-the-careercup-good-resume",
+  "version": "0.1.1",
+  "description": "jsonresume theme that generates the careercup.com 'good resume'",
+  "author": "bitsapien",
   "repository": {
     "type": "git",
-    "url": "https://github.com/erming/jsonresume-theme-boilerplate"
+    "url": "https://github.com/bitsapien/jsonresume-theme-the-careercup-good-resume"
   },
   "license": "MIT",
   "dependencies": {
-    "handlebars": "^2.0.0-alpha.4"
+    "handlebars": "^4.7.7",
+    "moment": "^2.29.4"
   }
 }
